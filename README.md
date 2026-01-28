@@ -4,7 +4,7 @@
 - 🧠 I’m deep-diving into **Machine Learning, Deep Learning, and AI**.
 - 🛠️ I’m simultaneously learning **Full Stack Development** to bring intelligent systems to life.
 - 🐧 I’m a **Fedora Linux** enthusiast (KDE Plasma user).
-- 💬 Ask me about **Python, Neural Networks, or System Architecture**.
+
 
 ---
 

@@ -71,10 +71,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AromalBiju1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AromalBiju1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>

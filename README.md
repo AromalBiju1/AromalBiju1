@@ -37,6 +37,15 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/LoRA-E91E63?style=for-the-badge&logo=model&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-9C27B0?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/bitsandbytes-FF9800?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <br>
+
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>

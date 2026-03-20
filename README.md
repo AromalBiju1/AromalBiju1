@@ -1,8 +1,7 @@
 ### 💫 About Me:
-
-- 🌌 I'm a developer focused on **turning creativity into code** and exploring complex solutions.
-- 🧠 I’m deep-diving into **Machine Learning, Deep Learning, and AI**.
-- 🛠️ I’m simultaneously learning **Full Stack Development** to bring intelligent systems to life.
+- 🌌 I'm a builder focused on **architecting intelligent solutions** and turning creative concepts into production-ready code.
+- 🧠 I develop and deploy models across **Machine Learning, Deep Learning, and Agentic AI**.
+- 🛠️ I engineer robust **Full Stack** applications to bring cognitive systems to the web.
 - 🐧 I’m a **Fedora Linux** enthusiast (KDE Plasma user).
 
 
@@ -16,6 +15,12 @@
 <a href="mailto:aromalbiju362004@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+---
+
+### 📊 GitHub Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalBiju1&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -40,6 +45,13 @@
   
   <br>
   
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=peertube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-4B32C3?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-092E20?style=for-the-badge&logo=databricks&logoColor=white" />
+
+  <br>
+
   <img src="https://img.shields.io/badge/LoRA-E91E63?style=for-the-badge&logo=model&logoColor=white" />
   <img src="https://img.shields.io/badge/Fine--Tuning-9C27B0?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/bitsandbytes-FF9800?style=for-the-badge&logo=python&logoColor=white" />
@@ -69,5 +81,3 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----

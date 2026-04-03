@@ -1,7 +1,8 @@
 ### 💫 About Me:
 - 🌌 I'm a builder focused on **architecting intelligent solutions** and turning creative concepts into production-ready code.
-- 🧠 I develop and deploy models across **Machine Learning, Deep Learning, and Agentic AI**.
+- 🧠 I develop and deploy models across **Machine Learning, Deep Learning, and Agentic AI,**.
 - 🛠️ I engineer robust **Full Stack** applications to bring cognitive systems to the web.
+- I'm passionate about how neuroscience can work with AI systems 
 - 🐧 I’m a **Fedora Linux/CachyOS** user).
 
 

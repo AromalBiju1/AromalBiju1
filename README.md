@@ -22,7 +22,6 @@
 ### 📊 GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AromalBiju1&theme=tokyonight&v=1)](https://git.io/streak-stats)
-
 ---
 
 ### 💻 Tech Stack:

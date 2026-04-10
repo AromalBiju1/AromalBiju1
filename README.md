@@ -3,7 +3,7 @@
 - 🧠 I develop and deploy models across **Machine Learning, Deep Learning, and Agentic AI,**.
 - 🛠️ I engineer robust **Full Stack** applications to bring cognitive systems to the web.
 - I'm passionate about how neuroscience can work with AI systems
-- Building Elyssia-AI 
+- Building **Elyssia-AI** - a research experiment to prove Emergent Cognitive Intelligence (ECI)
 - 🐧 I’m a **Fedora Linux/CachyOS** user).
 
 

@@ -18,11 +18,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
----
 
-### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AromalBiju1&theme=tokyonight)](https://git.io/streak-stats)
----
 
 ### 💻 Tech Stack:
 

@@ -4,6 +4,7 @@
 - 🛠️ I engineer robust **Full Stack** applications to bring cognitive systems to the web.
 - I'm passionate about how neuroscience can work with AI systems
 - Building **Elyssia-AI** - a research experiment to prove Emergent Cognitive Intelligence (ECI)
+- Building **Cylysia** - a recursive self evolving network agent to monitor and counter threats 
 - 🐧 I’m a **Fedora Linux/CachyOS** user).
 
 

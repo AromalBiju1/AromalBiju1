@@ -1,13 +1,10 @@
 ### 💫 About Me:
-- 🌌 I'm a builder focused on **architecting intelligent solutions** and turning creative concepts into production-ready code.
-- 🧠 I develop and deploy models across **Machine Learning, Deep Learning, and Agentic AI,**.
-- 🛠️ I engineer robust **Full Stack** applications to bring cognitive systems to the web.
-- I'm passionate about how neuroscience can work with AI systems
-- Building **Elyssia-AI** - a research experiment to prove Emergent Cognitive Intelligence (ECI)
-- Building **Cylysia** - a recursive self evolving network agent to monitor and counter threats 
-- 🐧 I’m a **Fedora Linux/CachyOS** user).
-
-
+- 🌌 I build systems that don't exist yet — from cognitive architectures to autonomous threat agents.
+- 🧠 I work across **ML, Deep Learning, and Agentic AI** with a focus on biologically-grounded design.
+- 🛠️ Full-stack when I have to be; backend and architecture is where I live.
+- Building **Elyssia-AI** — a biologically-grounded cognitive architecture researching Emergent Cognitive Intelligence
+- Building **Cylysia** — a recursive, self-evolving network agent for autonomous threat detection and response
+- 🐧 **CachyOS** daily driver
 ---
 
 ### 🌐 Socials:
